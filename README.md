@@ -1,4 +1,4 @@
-# SwiftVictronBMV712
+# SwiftVictron
 
 <p>
 <img src="https://img.shields.io/badge/Architecture%20-ARMv6%20%7C%20%20ARMv7%2F8-red.svg"/>
@@ -8,4 +8,6 @@
 </p>
 
 ## Summary  
-This is a [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) built on library for using to read [Victron BMV-712 Smart](https://www.victronenergy.com/battery-monitors/bmv-712-smart)
+This is a [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) built on library for using to read:
+- [Victron BMV-712 Smart](https://www.victronenergy.com/battery-monitors/bmv-712-smart)
+- [Victron SmartSolar MPPT 100/30 & 100/50](https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50)
